@@ -1,0 +1,6 @@
+---
+published: true
+title: it is easy
+layout: post
+---
+it is easy to use tinypress send a post.
